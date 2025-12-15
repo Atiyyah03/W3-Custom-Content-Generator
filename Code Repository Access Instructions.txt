@@ -1,0 +1,3 @@
+As the coding feature of Google Sheets was used, the code is available via the same link that was provided for the Google Sheet.
+
+Simply access the Google Sheet - Click on the 'Extensions' tab, it should give you a dropdown list - Choose the 'Apps Script' option - the code should then be available under the 'Editor' page on the left sidebar - Additionally under the 'Triggers' page on the left sidebar, a trigger was setup so the code runs upon new response submission via the attached Google Form.

@@ -1,0 +1,7 @@
+Google Sheet Link:
+
+https://docs.google.com/spreadsheets/d/1Rr0I-yi7nY7o1mlXk-1MsbMGAS-RmA4lqClKaWHgCis/edit?usp=sharing 
+
+I have added yonela@capaciti.org.za as a viewer to allow you access.
+
+The last entry is the an example of the final working Custom Content Generator for Creative Writing. The rest of the entries from the top is the result testing and fine-tuning of the code that shows our progress working through the project from start to finish with timestamps included in column 1 of the google sheet.

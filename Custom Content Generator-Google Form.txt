@@ -1,0 +1,5 @@
+Google Form Link:
+
+https://forms.gle/eiXf9QUDb2zf5Ywj7
+
+This is the user input form that records the user prompt details in order to give to the AI API
